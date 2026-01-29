@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+vector_db
+youtubechatbot.ipynb
+
+# Virtual environments
+.venv
+.env
+
